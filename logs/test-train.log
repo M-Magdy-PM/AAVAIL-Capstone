@@ -1,0 +1,9 @@
+timestamp,tag,start_date,end_date,rmse,runtime,version,note
+2026-10-30T20:48:52.283976,all,2017-11-29,2018-10-28,44522,000:00:06,0.1,supervised learning model for time-series
+2026-10-30T20:48:54.435935,united_kingdom,2017-11-29,2018-10-22,37223,000:00:02,0.1,supervised learning model for time-series
+2026-10-30T20:49:49.709333,united_kingdom,2017-12-03,2018-10-21,32011,000:00:02,0.1,supervised learning model for time-series
+2026-10-30T20:49:51.624301,all,2017-11-30,2018-10-26,38400,000:00:01,0.1,supervised learning model for time-series
+2026-10-30T20:52:06.106623,united_kingdom,2017-12-07,2018-10-30,37783,000:00:03,0.1,supervised learning model for time-series
+2026-10-30T20:52:08.070416,all,2017-12-10,2018-10-29,53465,000:00:01,0.1,supervised learning model for time-series
+2026-10-30T20:59:08.417860,united_kingdom,2017-12-02,2018-10-28,29972,000:00:05,0.1,supervised learning model for time-series
+2026-10-30T20:59:10.317968,all,2017-12-05,2018-10-24,43728,000:00:01,0.1,supervised learning model for time-series
